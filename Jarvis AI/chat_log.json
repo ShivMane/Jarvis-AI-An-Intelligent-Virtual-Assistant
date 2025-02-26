@@ -1,0 +1,24 @@
+{
+    "User Input": "hello",
+    "Model Output": [],
+    "Chat History": [
+        {
+            "role": "User",
+            "message": "hello"
+        }
+    ]
+}
+{
+    "User Input": "hi",
+    "Model Output": [],
+    "Chat History": [
+        {
+            "role": "User",
+            "message": "hello"
+        },
+        {
+            "role": "User",
+            "message": "hi"
+        }
+    ]
+}
